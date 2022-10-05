@@ -1,0 +1,19 @@
+.inline {
+  background-image: url("./image.jpg");
+  width: 100px;
+  height: 100px;
+
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  display: inline-block;
+}
+
+.block {
+  background-image: url("./image.jpg");
+  width: 100px;
+  height: 100px;
+
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  display: block;
+}
