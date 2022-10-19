@@ -1,0 +1,31 @@
+body {
+  margin-left: 30px;
+}
+
+p {
+  width: 30%;
+}
+
+.inline {
+  background-image: url("./image.jpg");
+  width: 150px;
+  height: 70px;
+  margin-bottom: 30px;
+  margin-right: 45px;
+
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  display: inline-block;
+}
+
+.inliner {
+  background-image: url("./image.jpg");
+  width: 150px;
+  height: 70px;
+  margin-bottom: 30px;
+  margin-right: 45px;
+
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  display: inline-block;
+}

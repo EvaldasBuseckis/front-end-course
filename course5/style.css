@@ -1,0 +1,14 @@
+.figura {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
